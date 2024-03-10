@@ -5,4 +5,4 @@ resources:
   - namespace.yaml
   - test.deploy.yaml
 
-namespace: deploy2
+namespace: deploy2_v1
